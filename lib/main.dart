@@ -3,9 +3,9 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_blue/flutter_blue.dart';
-import 'package:mobile_apps/screen/BluetoothOffScreen.dart';
-import 'package:mobile_apps/screen/DeviceScreen.dart';
-import 'package:mobile_apps/screen/FindDeviceScreen.dart';
+import 'package:mobile_apps/screens/BluetoothOffScreen.dart';
+import 'package:mobile_apps/screens/DeviceScreen.dart';
+import 'package:mobile_apps/screens/FindDeviceScreen.dart';
 
 void main() {
   FlutterError.onError = (FlutterErrorDetails details) {

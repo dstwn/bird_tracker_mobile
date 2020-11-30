@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206957684060",
+    "firebase_url": "https://birdtracker-2020.firebaseio.com",
+    "project_id": "birdtracker-2020",
+    "storage_bucket": "birdtracker-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206957684060:android:8282613b5e01945c54cd99",
+        "android_client_info": {
+          "package_name": "com.birdtracker.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206957684060-iv8b09afs66utgupbdu14m4d479riso8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeMtTPBdG1--doCDLH6WFDWmtFlvy5peg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206957684060-iv8b09afs66utgupbdu14m4d479riso8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
